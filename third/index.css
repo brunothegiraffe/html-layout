@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+}
+.header{
+    background-color: lightgrey;
+    width: 100vw;
+    height: 15vh;
+}
+.bluebox{
+    float: left;
+    background-color: slateblue;
+    height: 110px;
+    width: 110px;
+    margin: 15px 0px 20px 30px;
+}
+.text{
+    width: 100vw;
+    height: 45vh;
+    align-content: center;
+}
+p{
+    text-align: left;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 150px 50px;
+}
+.container{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: stretch;
+}
+.box1{
+    background-color: #4A90E2;
+    width: 100vw;
+    height: 15vh;
+}
+.box2{
+    background-color: #50E3C2;
+    width: 100vw;
+    height: 15vh;
+}
+.box3{
+    background-color: #B8E986;
+    width: 100vw;
+    height: 15vh;
+}
+.box4{
+    background-color: #F8E71C;
+    width: 100vw;
+    height: 15vh;
+}
